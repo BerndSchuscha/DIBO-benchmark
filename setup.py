@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pibob",
+    name="dibo_benchmark",
     version="0.1.0",
     author="Bernd Schuscha",
     author_email="bernd.schuscha@mcl.at",
     description=(
-        "PIBOB: a benchmark for knowledge-integration strategies in "
+        "DIBOB: a benchmark for knowledge-integration strategies in "
         "multi-objective Bayesian optimization for materials design"
     ),
     long_description=long_description,
@@ -22,7 +22,7 @@ setuptools.setup(
         "Topic :: Scientific/Engineering",
         "Operating System :: OS Independent",
     ],
-    packages=setuptools.find_packages(include=["pibob", "pibob.*"]),
+    packages=setuptools.find_packages(include=["dibo_benchmark", "dibo_benchmark.*"]),
     python_requires=">=3.10",
     install_requires=[
         "torch",
