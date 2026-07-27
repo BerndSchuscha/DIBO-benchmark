@@ -1,4 +1,4 @@
-# PIBOB — Physics-Informed Bayesian Optimization Benchmark
+# DIBOB — Physics-Informed Bayesian Optimization Benchmark
 
 **Benchmarking knowledge-integration strategies for multi-objective Bayesian optimization in materials design.**
 
