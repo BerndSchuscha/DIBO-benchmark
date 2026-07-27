@@ -1,0 +1,5 @@
+pycalphad==0.10.5
+git+https://github.com/materialsgenomefoundation/kawin.git@4a4a77c
+notebook
+numpy==1.26
+botorch

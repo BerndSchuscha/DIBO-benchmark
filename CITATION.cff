@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use PIBOB, please cite the accompanying paper."
+title: "PIBOB: Physics-Informed Bayesian Optimization Benchmark"
+authors:
+  - family-names: Schuscha
+    given-names: Bernd
+    email: bernd.schuscha@mcl.at
+    affiliation: "Materials Center Leoben Forschung GmbH / Montanuniversität Leoben"
+repository-code: "https://github.com/<user>/PIBOB"
+license: NOASSERTION
+preferred-citation:
+  type: article
+  title: "Knowledge integration strategies for Bayesian optimization in materials design"
+  authors:
+    - family-names: Schuscha
+      given-names: Bernd
+  journal: "Computational Materials Science"
+  year: 2026
+  notes: "submitted"
